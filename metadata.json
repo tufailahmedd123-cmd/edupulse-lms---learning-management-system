@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse LMS - Learning Management System",
+  "description": "Professional university-level Learning Management System built with HTML5, CSS3, and ES6+ Vanilla JavaScript featuring Student, Instructor, and Admin dashboards, course learning player, interactive quizzes, assignments, certificate generator, and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

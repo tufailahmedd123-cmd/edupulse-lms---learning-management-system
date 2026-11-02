@@ -1,2 +1,20 @@
-# edupulse-lms---learning-management-system
-EduPulse LMS is a modern, responsive Learning Management System designed to enhance digital education. It features course management, student enrollment, interactive lessons, assignments, quizzes, progress tracking, and an intuitive dashboard for students and instructors, providing an engaging and organized online learning experience.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/944ac08a-c2aa-4f96-8da6-96a3da49c892
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
